@@ -1,0 +1,137 @@
+<doc url="http://www.charasala.com/blog/?p=186">
+మళ్లీ	మళ్లీ	RB	0	avy				
+ఉదయిస్తాడు	ఉదయించు	VM	తా	v	m	sg	3	
+.	.	SYM		punc				
+</s>
+<s>
+యెహోవా	యెహోవా	NN		unk				
+కృపను	కృపను	NN		n		sg		
+మనమెలా	మనమెలా	PRP		unk				
+మహిమపరచవచ్చు	మహిమపరచవచ్చు	VM		unk				
+?	?	SYM		punc				
+</s>
+<s>
+ఆర్థికంగా	ఆర్థికం	RB	గా	n		sg		
+కూడా	కూడా	PSP	0	avy				
+భారత్	భారత్	NNP	0	n		sg		d
+‌	‌	NN		unk				
+వే	వేం	NN	టి	n		sg		o
+గంగా	గంగ	RB	0_ఆ	n		sg		
+పయనిస్తున్నది	పయనిస్తున్నది	VM		pn		sg		
+.	.	SYM		punc				
+</s>
+<s>
+విద్యార్థులను	విద్యార్థి	NN	ని	n		pl		
+చూస్తుంటే	చూడు	VM	తుంటే	v	any	any	any	
+నాకు	నేను	PRP	కి	pn	any	sg	1	
+చిన్నప్పటి	చిన్నప్పుడు	NN	యొక్క	adv				
+రోజులు	రోజు	NN	0	n		pl		d
+గుర్తుకొస్తున్నాయి	గుర్తుకొచ్చు	VM	తున్న్	v	n	pl	3	
+.	.	SYM		punc				
+</s>
+<s>
+పద్మినీ	పద్మిని	NNP	0	n		sg		
+స్త్రీ	స్త్రీ	NN	0	n		sg		d
+రాత్రి	రాత్రి	NN	0	n		sg		d
+వేళల్లో	వేళ	NN	లో	n		pl		
+రతికి	రతి	NN	కి	n		sg		
+ఇష్టపడదు	ఇష్టపడు	VM	అ	v	fn	sg	3	
+.	.	SYM		punc				
+</s>
+<s>
+ఓకే	ఓకు	NN	0	n		sg		
+కుటుంబానికి	కుటుంబం	NN	కి	n		sg		
+చెందిన	చెందు	VM	ఇన	v	any	any	any	
+ముగ్గురు	మూడు	NN	రు	n				
+మృతిచెందటంతో	మృతిచెందటంతో	NN		n		sg		
+ఈ	ఈ	DEM		avy				
+సంఘటన	సంఘటన	NN	0	n		sg		d
+కలవరపర్చింది	కలవరపర్చింది	VM		v	fn	sg	3	
+.	.	SYM		punc				
+</s>
+<s>
+ఆ	ఆ	DEM		avy				
+సినిమాకు	సినిమా	NN	కి	n		sg		
+వి	వి	NN		avy				
+.	.	SYM		punc				
+</s>
+<s>
+వి	వి	NN		avy				
+.	.	SYM		punc				
+</s>
+<s>
+వినాయక్	వినాయక్	NNP		unk				
+‌	‌	NN		unk				
+దర్శకత్వం	దర్శకత్వం	NN	0	n		sg		d
+వహించనున్నారు	వహించు	VM	అ_ఉండు_ఆ	v		pl	3	
+.	.	SYM		punc				
+</s>
+<s>
+హైదరాబాద్	హైదరాబాద్	NNP	0	n		sg		d
+‌	‌	NN		unk				
+కు	కు	PSP	0	avy				
+మరో	మరో	QF		avy				
+భారీ	భారీ	JJ	0	adj				
+వర్షం	వర్షం	NN	0	n		sg		d
+సూచనలున్నాయని	సూచనలున్నాయని	VM		v	n	pl	3	
+వాతావరణ	వాతావరణం	NN	టి	n		sg		o
+శాఖ	శాఖ	NN	0	n		sg		d
+హెచ్చరించింది	హెచ్చరించు	VM	ఆ	v	fn	sg	3	
+.	.	SYM		punc				
+</s>
+<s>
+మనం	మనం	PRP	0	pn		pl		d
+అంటున్న	అను	VM	తున్న	v	any	any	any	
+మమ్ముట్టి	మమ్ముట్టి	VM		unk				
+ఫ్యామిలీ	ఫ్యామిలీ	NN	0	n		sg		d
+!	!	SYM		punc				
+మొనాకో	మొనాకో	NN		unk				
+-	-	SYM		punc				
+విల్లెలో	విల్లెలో	NN		unk				
+,	,	SYM		punc				
+ఫ్రెంచ్	ఫ్రెంచ్	NNP	0	n		sg		d
+,	,	SYM		punc				
+మోనెగస్క్యూ	మోనెగస్క్యూ	NN		unk				
+రెండింటిలో	రెండింటిలో	NN		unk				
+వీధి	వీధి	NN	0	n		sg		d
+చిహ్నాలను	చిహ్నం	NN	ని	n		pl		
+ప్రింట్	ప్రింట్	NN	0	n		sg		d
+చేస్తారు	చెయ్యి	VM	తా	v		pl	3	
+.	.	SYM		punc				
+</s>
+<s>
+ప్రముఖ	ప్రముఖం	NN	టి	n		sg		o
+బీబీసీ	బీబీసీ	NN		unk				
+నివేదిక	నివేదిక	NN	0	n		sg		d
+ఇదే	ఇది	PRP	0	pn	fn	sg	3	
+విషయం	విషయం	NN	0	n		sg		d
+పేర్కొంది	పేర్కొను	VM	ఆ	v	fn	sg	3	
+.	.	SYM		punc				
+</s>
+<s>
+సంవత్సరానికి	సంవత్సరం	NN	కి	n		sg		
+అదనంగా	అదనం	RB	తనం	n		sg		
+ఒక	ఒక	JJ	0	adj				
+రోజునో	రోజునో	NN		unk				
+లేక	లేక	CC	0	avy				
+ఒక	ఒక	JJ	0	adj				
+నెలనో	నెలనో	NN		n		pl		
+చేర్చి	చేర్చు	VM	ఇ	v	any	any	any	
+ఈ	ఈ	DEM		avy				
+తేడాను	తేడా	NN	ను	n		sg		
+నివారించవచ్చు	నివారించు	VM	అ_వచ్చు	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+వీరి	వీరు	PRP	టి	pn	fm	pl	3	o
+మరణానికి	మరణం	NN	కి	n		sg		
+సంబంధించి	సంబంధించు	VM	ఇ	v	any	any	any	
+పూర్తి	పూర్తి	NN	0	n		sg		d
+వివరాలు	వివరం	NN	0	n		pl		d
+ఇంకా	ఇంకా	INTF	0	avy				
+తెలియాల్సి	తెలియాల్సి	VM		v	any	any	any	
+ఉంది	ఉండు	VM	ఆ	v	fn	sg	3	
+.	.	SYM		punc				
+</s>
+<s>
+</doc>
